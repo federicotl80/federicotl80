@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hola, soy Federico Treviño
 
-<!--
-**federicotl80/federicotl80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Analista de Datos Jr | Python · SQL · Pandas · Power BI · Excel**
 
-Here are some ideas to get you started:
+Analista de Datos en formación con background en administración y análisis de negocio. 
+Actualmente formándome en **TripleTen Data Analytics Bootcamp**, desarrollando proyectos enfocados en limpieza, análisis y visualización de datos para la toma de decisiones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías & Herramientas
+- **Lenguajes:** Python, SQL  
+- **Librerías:** Pandas, NumPy, Matplotlib  
+- **BI & Visualización:** Power BI  
+- **Otros:** Excel, Git, GitHub
+
+---
+
+## 📂 Proyectos Destacados
+
+### 📊 Análisis Exploratorio de Datos
+- Limpieza y transformación de datasets
+- Análisis estadístico y visualización
+- **Tech:** Python, Pandas  
+🔗 [Ver repositorio](https://github.com/TU_USUARIO/nombre-proyecto)
+
+### 📈 Dashboard de Indicadores de Negocio
+- Creación de KPIs y visualizaciones interactivas
+- Enfoque en insights para negocio
+- **Tech:** Power BI, Excel  
+🔗 [Ver repositorio](https://github.com/TU_USUARIO/nombre-proyecto)
+
+---
+
+## 📫 Contacto
+- 📧 Email: tucorreo@email.com
+- 💼 LinkedIn: https://www.linkedin.com/in/tu-linkedin
