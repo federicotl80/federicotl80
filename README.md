@@ -32,5 +32,5 @@ Actualmente formándome en **TripleTen Data Analytics Bootcamp**, desarrollando 
 ---
 
 ## 📫 Contacto
-- 📧 Email: tucorreo@email.com
-- 💼 LinkedIn: https://www.linkedin.com/in/tu-linkedin
+- 📧 Email: federicotl@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/federico-trevino-l
