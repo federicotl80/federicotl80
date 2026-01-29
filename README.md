@@ -21,7 +21,7 @@ Actualmente formándome en **TripleTen Data Analytics Bootcamp**, desarrollando 
 - Limpieza y transformación de datasets
 - Análisis estadístico y visualización
 - **Tech:** Excel  
-🔗 [Ver repositorio](https://github.com/TU_USUARIO/nombre-proyecto](https://github.com/federicotl80/data-cleaning-excel/blob/main/Proyecto%201_%20Limpieza%20y%20resumen%20de%20datos%20en%20hojas%20de%20cálculo%20-%20Datos_Originales.pdf)
+🔗 [Ver repositorio](https://github.com/federicotl80/federico-trevino-portfolio/blob/main/Proyecto%201_%20Limpieza%20y%20resumen%20de%20datos%20en%20hojas%20de%20c%C3%A1lculo%20-%20Datos_Originales.pdf)
 
 ### 📈 Dashboard de Indicadores de Negocio
 - Creación de KPIs y visualizaciones interactivas
