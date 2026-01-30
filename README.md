@@ -42,6 +42,17 @@ Actualmente formándome en **TripleTen Data Analytics Bootcamp**, desarrollando 
  Retención por cohortes
 - **Tech:** SQL | Analisis de Datos
 🔗 [Ver repositorio](https://github.com/federicotl80/funnel-retention-mercadolibre/blob/main/Proyecto%204_%20Ana%CC%81lisis%20de%20embudo%20y%20retencio%CC%81n%20para%20MercadoLibre%20-%20Resumen%20ejecutivo%20-%20Informe%20Ejecutivo.pdf)
+
+### 📈 Análisis de Movilidad y Economía
+- Análisis exploratorio de datos para estudiar la relación entre movilidad urbana y variables económicas.
+Tecnologías
+- Python
+- Pandas
+- Matplotlib
+
+Entregable
+Notebook con análisis y visualizaciones.
+🔗 [Ver repositorio]([https://github.com/federicotl80/funnel-retention-mercadolibre/blob/main/Proyecto%204_%20Ana%CC%81lisis%20de%20embudo%20y%20retencio%CC%81n%20para%20MercadoLibre%20-%20Resumen%20ejecutivo%20-%20Informe%20Ejecutivo.pdf](https://github.com/federicotl80/mobility-economy-analysis/blob/main/S5%20ladb_mobility_economy_project_student%20(1).ipynb))
 ---
 
 ## 📫 Contacto
