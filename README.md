@@ -33,7 +33,7 @@ Actualmente formándome en **TripleTen Data Analytics Bootcamp**, desarrollando 
 - Análisis de desempeño financiero mediante consultas SQL para evaluar resultados y tendencias.
 - Obtener insights financieros a partir de datos estructurados.
 - **Tech:** SQL 
-🔗 [Ver repositorio](https://github.com/federicotl80/financial-performance-sql)
+🔗 [Ver repositorio](https://github.com/federicotl80/financial-performance-sql/blob/main/Proyecto%203_%20Análisis%20del%20desempeño%20financiero%20con%20SQL%20-%20Resumen%20ejecutivo%20%20-%20Dashboard.pdf)
 
 ### 📈 Análisis de Embudo y Retención – MercadoLibre
 - Análisis de conversión y retención de usuarios mediante datos de eventos.
@@ -41,7 +41,7 @@ Actualmente formándome en **TripleTen Data Analytics Bootcamp**, desarrollando 
  Funnel
  Retención por cohortes
 - **Tech:** SQL | Analisis de Datos
-🔗 [Ver repositorio]()
+🔗 [Ver repositorio](https://github.com/federicotl80/funnel-retention-mercadolibre/blob/main/Proyecto%204_%20Ana%CC%81lisis%20de%20embudo%20y%20retencio%CC%81n%20para%20MercadoLibre%20-%20Resumen%20ejecutivo%20-%20Informe%20Ejecutivo.pdf)
 ---
 
 ## 📫 Contacto
