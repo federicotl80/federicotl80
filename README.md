@@ -54,6 +54,20 @@ Entregable
 Notebook con análisis y visualizaciones.
 🔗 [Ver repositorio](https://github.com/federicotl80/mobility-economy-analysis/blob/main/S5%20ladb_mobility_economy_project_student%20(1).ipynb)
 
+### 📈 Análisis de una empresa de telecomunicaciones
+- Evaluar el comportamiento de los clientes de una empresa de telecomunicaciones en Latinoamérica, ConnectaTel..
+🛠️ Herramientas Utilizadas
+Python
+Jupyter Notebook
+pandas
+numpy
+seaborn
+matplotlib
+
+Entregable
+Notebook con análisis y visualizaciones.
+🔗 [Ver repositorio](https://github.com/federicotl80/sprint7-final-project/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)
+
 ---
 
 ## 📫 Contacto
