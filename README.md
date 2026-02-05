@@ -66,7 +66,7 @@ matplotlib
 
 Entregable
 Notebook con análisis y visualizaciones.
-🔗 [Ver repositorio](https://github.com/federicotl80/sprint7-final-project/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)
+🔗 [Ver repositorio](https://github.com/federicotl80/Proyecto-7-Explorando-drivers-de-comportamiento-en-NovaRetail-/blob/main/README.md)
 
 ### 📈  Explorando drivers de comportamiento en NovaRetail+
 - Este proyecto es un análisis correlacional (exploratorio). Correlación ≠ causalidad..
