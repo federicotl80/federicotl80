@@ -82,7 +82,7 @@ Notebook con análisis y visualizaciones.
 
 Entregable
 Notebook con análisis y visualizaciones.
-🔗 [Ver repositorio](https://github.com/federicotl80/mobility-economy-analysis/blob/main/S5%20ladb_mobility_economy_project_student%20(1).ipynb)
+🔗 [Ver repositorio](https://github.com/federicotl80/mobility-economy-analysis/blob/main/S5%20ladb_mobility_economy_project_student%20(1).ipynb](https://github.com/federicotl80/Proyecto-7-Explorando-drivers-de-comportamiento-en-NovaRetail-/blob/main/S8%20Student%20Version-Project-NovaRetail.ipynb)
 ---
 
 ## 📫 Contacto
