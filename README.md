@@ -68,6 +68,21 @@ Entregable
 Notebook con análisis y visualizaciones.
 🔗 [Ver repositorio](https://github.com/federicotl80/sprint7-final-project/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)
 
+### 📈  Explorando drivers de comportamiento en NovaRetail+
+- Este proyecto es un análisis correlacional (exploratorio). Correlación ≠ causalidad..
+## 🧰 Herramientas utilizadas
+- **Python**
+- **Jupyter Notebook**
+- Librerías:
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - scipy
+
+Entregable
+Notebook con análisis y visualizaciones.
+🔗 [Ver repositorio](https://github.com/federicotl80/mobility-economy-analysis/blob/main/S5%20ladb_mobility_economy_project_student%20(1).ipynb)
 ---
 
 ## 📫 Contacto
